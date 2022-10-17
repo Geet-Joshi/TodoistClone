@@ -1,2 +1,2 @@
 # TodoistClone
-Repository for frontend and backend code of Todoist clone app
+Repository for frontend backend code of Todoist clone app
